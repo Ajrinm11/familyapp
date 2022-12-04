@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right bottom, #ffcbef, #ffd2ed, #ffdaed, #ffe1ee, #ffe9f0, #ffe8ef, #ffe8ef, #ffe7ee, #ffdee9, #ffd4e6, #ffcbe3, #ffc2e1);
+}
+
+h1
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h4
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#camera
+{
+    width:500px;
+    height:400px;
+}
